@@ -1,0 +1,3 @@
+Currency - '$41', '$952', '₹581', '₹534', '£51', '£952', '$175', '$425', '₹1047', '₹2', '£41', '£55'
+Dates - 04/24/2022  25/06/95  09/08/2025  09/05/1969  11/13/06   01/15/2024
+Four letter words starting with vowel - ACTS	ALAS	AREA	AUTO  Olay Laye Iloc Pyto Tore Uave

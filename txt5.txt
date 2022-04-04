@@ -1,0 +1,4 @@
+Currency - '$71', '$932', '₹1414', '₹524', '£51', '£795', '$155', '$15', '₹47', '₹284', '£221', '£95'
+Dates - 24/04/2022  15/05/90  05/28/2015  9/5/1959  11/13/06   01/15/2024
+Four letter words starting with vowel - ABLE	AJAR	APEX	ATOP  NOAT Alop INOT  JACK NOISE Help Elit 
+
